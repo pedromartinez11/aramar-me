@@ -4,7 +4,7 @@ import $ from 'jquery';
 import 'styles/index.scss';
 
 const app = $('.app');
-app.append('hello')
+app.append('hi chely')
 
 
 
